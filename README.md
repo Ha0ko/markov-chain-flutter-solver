@@ -59,8 +59,22 @@ lib/
 ```
 ### Screenshots
 
-![photo_4_2026-02-05_17-11-44](https://github.com/user-attachments/assets/4be38594-b835-400f-b730-7c80d064502e)
-![photo_3_2026-02-05_17-11-44](https://github.com/user-attachments/assets/b1359749-fec4-4c0f-91cc-d8159d03e5c6)
-![photo_2_2026-02-05_17-11-44](https://github.com/user-attachments/assets/984018cf-c3e9-41e2-a6c9-70a5a2b60c2f)
-![photo_1_2026-02-05_17-11-44](https://github.com/user-attachments/assets/13c0f4ee-8142-473d-9970-7a3f97f92d35)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13c0f4ee-8142-473d-9970-7a3f97f92d35" alt="State count" width="220" />
+  <img src="https://github.com/user-attachments/assets/984018cf-c3e9-41e2-a6c9-70a5a2b60c2f" alt="Matrix input" width="220" />
+</p>
+
+<p align="center">
+  <em>State count • Transition matrix input</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1359749-fec4-4c0f-91cc-d8159d03e5c6" alt="Simulation setup" width="220" />
+  <img src="https://github.com/user-attachments/assets/4be38594-b835-400f-b730-7c80d064502e" alt="Results and chart" width="220" />
+</p>
+
+<p align="center">
+  <em>Simulation setup • Results & chart</em>
+</p>
+
 
