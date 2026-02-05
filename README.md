@@ -1,4 +1,4 @@
-# markov_app
+# markov-chain-flutter-solver
 
 A new Flutter project.
 
