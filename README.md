@@ -48,14 +48,18 @@ cd markov-chain-flutter-solver
 flutter pub get
 flutter run
 ```
+
+### screens 
+
 ```bash
 lib/
   main.dart
   screens/
-    state_count_screen.dart
-    transition_matrix_screen.dart
-    simulation_setup_screen.dart
-    results_visualization_screen.dart
+    matrix_cell_input.dart
+    matrix_screen.dart
+    parameters_screen.dart
+    result_screen.dart
+    setup_screen.dart
 ```
 ### Screenshots
 
