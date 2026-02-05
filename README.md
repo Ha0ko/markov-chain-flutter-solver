@@ -47,3 +47,16 @@ git clone https://github.com/Ha0ko/markov-chain-flutter-solver.git
 cd markov-chain-flutter-solver
 flutter pub get
 flutter run
+```
+
+lib/
+  main.dart
+  screens/
+    state_count_screen.dart
+    transition_matrix_screen.dart
+    simulation_setup_screen.dart
+    results_visualization_screen.dart
+
+###Screenshots
+
+
